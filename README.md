@@ -1,2 +1,2 @@
-# jstodo
+# udemyJsTodo
 Created with CodeSandbox
